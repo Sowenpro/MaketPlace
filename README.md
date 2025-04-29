@@ -90,4 +90,4 @@ mvn test
 Ce projet est sous licence MIT.
 
 ## Auteur
-Développé par HUANG Loïc, MOLAWKA Leonardo.
+Développé par HUANG Loïc, MOLAWKA Leonardo & CARDON Sowen.
